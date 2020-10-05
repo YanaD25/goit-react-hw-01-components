@@ -1,0 +1,22 @@
+.transactionHistory{
+    border: 2px solid  rgb(172, 161, 161);
+    width: 700px;
+    margin:0 auto;
+}
+.list{
+    background-color: rgb(31, 186, 238);
+    color: white;
+}
+.listItem{
+    padding: 15px 0;
+    text-transform: uppercase;
+}
+
+.bodyItem{
+    text-align: center;
+    padding: 15px 0;
+    border: 2px solid rgb(172, 161, 161);
+}
+.bodyItem::first-letter{
+    text-transform: uppercase;
+}
